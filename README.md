@@ -1,1 +1,3 @@
 # Parcial
+## Segunda parte
+Se realizó un análisis exploratorio (EDA) mas limpio y pulcro sobre las columnas numéricas aplicando estadísticas como media, mínimos, máximos y desviación estándar, además de detectar valores nulos y calcular la matriz de correlación. Para las columnas de tipo string como Summary, Daily Summary y Precip Type, se analizaron las frecuencias de valores más comunes. En cuanto a la columna de tipo fecha (Formatted Date), se extrajeron componentes como año, mes, hora y día para agrupar los datos temporalmente, analizar su comportamiento por hora o estación del año y detectar patrones diarios o estacionales. Todo el análisis incluyó visualizaciones usando z.show(...) en Zeppelin.
