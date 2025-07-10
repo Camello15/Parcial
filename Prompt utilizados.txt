@@ -5,3 +5,5 @@ Prompt utilizados:
 2- Como se podria realizar un analisis explorativo a un fomato tipo string?
 
 3- Se podria hacer algo similar con el formato tipo date ?
+
+4- Que solucion podria implementar cuando hay una columna con muchos datos que dañe las graficas?
